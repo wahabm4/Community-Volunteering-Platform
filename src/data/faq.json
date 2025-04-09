@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is the Community Volunteering Platform?",
+    "answer": "The Community Volunteering Platform connects volunteers with nonprofit organizations. It helps volunteers find opportunities that match their skills and interests, while allowing nonprofits to find dedicated individuals who want to make a difference in their communities."
+  },
+  {
+    "question": "How do I post a volunteer opportunity?",
+    "answer": "As a nonprofit organization, you can post volunteer opportunities by navigating to the 'Post Opportunity' section after logging in. Fill in the details including required skills, time commitment, location, and description, then submit the form to create a new listing."
+  },
+  {
+    "question": "How can I search for volunteer opportunities?",
+    "answer": "Volunteers can search for opportunities using the search bar on the homepage or the dedicated opportunity search page. You can filter by cause, skills required, location, time commitment, and other preferences to find the perfect match."
+  },
+  {
+    "question": "How do I apply for a volunteer position?",
+    "answer": "To apply for a volunteer opportunity, click on the listing that interests you and then select the 'Apply' button. You'll need to provide information about your relevant skills and experience, availability, and your motivation for volunteering."
+  },
+  {
+    "question": "Can I save opportunities to apply later?",
+    "answer": "Yes, you can bookmark volunteer opportunities by clicking the 'Save' button on any listing. Your saved opportunities can be accessed from your profile dashboard under the 'Saved Opportunities' section."
+  },
+  {
+    "question": "How do I track my volunteer applications?",
+    "answer": "All your applications are tracked in your profile dashboard under 'My Applications.' You can see the status of each application (Pending, Accepted, Declined) and any messages from the nonprofit organization."
+  },
+  {
+    "question": "How do organizations verify volunteers?",
+    "answer": "Organizations can review volunteer profiles, which include skills, experience, and feedback from previous volunteering experiences. Some opportunities may require additional verification steps, such as background checks for certain roles."
+  },
+  {
+    "question": "Can I leave feedback after volunteering?",
+    "answer": "Yes, both volunteers and organizations can leave feedback and ratings after completing volunteer opportunities. This helps build trust and recognition within the community."
+  }
+]
